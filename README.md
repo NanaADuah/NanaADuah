@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 📧 nana321.nad@gmail.com  <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nana-agyemang-duah-716ab11ab/)
 
+<p align=left><img src=https://komarev.com/ghpvc?username=NanaADuah&style=for-the-badge/></p>
 
 ## Github Stats
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=NanaADuah&theme=dracula&count_private=true" /></a>
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NanaADuah&theme=dracula&count_private=true"/></a>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaADuah&theme=dracula&include_all_commits=true&count_private=true&layout=compact"></a>
+
