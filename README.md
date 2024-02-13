@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 📧 nana321.nad@gmail.com  <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nana-agyemang-duah-716ab11ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NanaADuah/)
 
 <p align=left><img src=https://komarev.com/ghpvc?username=NanaADuah&style=for-the-badge/></p>
 
